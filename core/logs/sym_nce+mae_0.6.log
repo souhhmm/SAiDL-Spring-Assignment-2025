@@ -1,0 +1,379 @@
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to ./data/cifar-10-python.tar.gz
+100%|██████████| 170M/170M [00:03<00:00, 43.7MB/s] 
+Extracting ./data/cifar-10-python.tar.gz to ./data
+30000 Noisy samples
+Class 0, number of noisy  3000
+Class 1, number of noisy  3000
+Class 2, number of noisy  3000
+Class 3, number of noisy  3000
+Class 4, number of noisy  3000
+Class 5, number of noisy  3000
+Class 6, number of noisy  3000
+Class 7, number of noisy  3000
+Class 8, number of noisy  3000
+Class 9, number of noisy  3000
+30000
+Print noisy label generation statistics:
+Noisy class 0, has 5021 samples.
+Noisy class 1, has 5061 samples.
+Noisy class 2, has 4962 samples.
+Noisy class 3, has 5000 samples.
+Noisy class 4, has 5029 samples.
+Noisy class 5, has 4972 samples.
+Noisy class 6, has 4953 samples.
+Noisy class 7, has 5040 samples.
+Noisy class 8, has 4983 samples.
+Noisy class 9, has 4979 samples.
+Files already downloaded and verified
+Num of train 50000
+Num of test 10000
+
+Epoch: 1
+Training: 100%|██████████| 391/391 [00:12<00:00, 30.43it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.72it/s]
+Train Loss: 0.920 | Train Acc: 0.18
+Test Loss: 0.645 | Test Acc: 0.43
+Best Acc: 0.43
+
+Epoch: 2
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.91it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 53.01it/s]
+Train Loss: 0.873 | Train Acc: 0.22
+Test Loss: 0.560 | Test Acc: 0.50
+Best Acc: 0.50
+
+Epoch: 3
+Training: 100%|██████████| 391/391 [00:12<00:00, 31.27it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 53.01it/s]
+Train Loss: 0.855 | Train Acc: 0.23
+Test Loss: 0.531 | Test Acc: 0.52
+Best Acc: 0.52
+
+Epoch: 4
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.96it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.28it/s]
+Train Loss: 0.841 | Train Acc: 0.25
+Test Loss: 0.523 | Test Acc: 0.53
+Best Acc: 0.53
+
+Epoch: 5
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.77it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 49.78it/s]
+Train Loss: 0.829 | Train Acc: 0.26
+Test Loss: 0.467 | Test Acc: 0.59
+Best Acc: 0.59
+
+Epoch: 6
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.21it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.89it/s]
+Train Loss: 0.819 | Train Acc: 0.27
+Test Loss: 0.444 | Test Acc: 0.60
+Best Acc: 0.60
+
+Epoch: 7
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.71it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 51.80it/s]
+Train Loss: 0.811 | Train Acc: 0.27
+Test Loss: 0.435 | Test Acc: 0.61
+Best Acc: 0.61
+
+Epoch: 8
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.46it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.66it/s]
+Train Loss: 0.803 | Train Acc: 0.28
+Test Loss: 0.400 | Test Acc: 0.64
+Best Acc: 0.64
+
+Epoch: 9
+Training: 100%|██████████| 391/391 [00:12<00:00, 32.27it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 51.53it/s]
+Train Loss: 0.795 | Train Acc: 0.29
+Test Loss: 0.387 | Test Acc: 0.65
+Best Acc: 0.65
+
+Epoch: 10
+Training: 100%|██████████| 391/391 [00:12<00:00, 32.44it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.57it/s]
+Train Loss: 0.790 | Train Acc: 0.29
+Test Loss: 0.378 | Test Acc: 0.66
+Best Acc: 0.66
+
+Epoch: 11
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.32it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 49.35it/s]
+Train Loss: 0.785 | Train Acc: 0.30
+Test Loss: 0.365 | Test Acc: 0.67
+Best Acc: 0.67
+
+Epoch: 12
+Training: 100%|██████████| 391/391 [00:12<00:00, 32.53it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.56it/s]
+Train Loss: 0.781 | Train Acc: 0.30
+Test Loss: 0.355 | Test Acc: 0.68
+Best Acc: 0.68
+
+Epoch: 13
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.91it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 51.64it/s]
+Train Loss: 0.776 | Train Acc: 0.30
+Test Loss: 0.352 | Test Acc: 0.68
+Best Acc: 0.68
+
+Epoch: 14
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.42it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 42.53it/s]
+Train Loss: 0.773 | Train Acc: 0.31
+Test Loss: 0.335 | Test Acc: 0.70
+Best Acc: 0.70
+
+Epoch: 15
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.30it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 49.16it/s]
+Train Loss: 0.768 | Train Acc: 0.31
+Test Loss: 0.326 | Test Acc: 0.71
+Best Acc: 0.71
+
+Epoch: 16
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.35it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 53.07it/s]
+Train Loss: 0.766 | Train Acc: 0.31
+Test Loss: 0.335 | Test Acc: 0.69
+Best Acc: 0.71
+
+Epoch: 17
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.60it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.30it/s]
+Train Loss: 0.762 | Train Acc: 0.32
+Test Loss: 0.325 | Test Acc: 0.71
+Best Acc: 0.71
+
+Epoch: 18
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.38it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 53.09it/s]
+Train Loss: 0.759 | Train Acc: 0.32
+Test Loss: 0.320 | Test Acc: 0.71
+Best Acc: 0.71
+
+Epoch: 19
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.66it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 51.71it/s]
+Train Loss: 0.756 | Train Acc: 0.32
+Test Loss: 0.310 | Test Acc: 0.72
+Best Acc: 0.72
+
+Epoch: 20
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.20it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.00it/s]
+Train Loss: 0.753 | Train Acc: 0.33
+Test Loss: 0.309 | Test Acc: 0.72
+Best Acc: 0.72
+
+Epoch: 21
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.35it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.18it/s]
+Train Loss: 0.751 | Train Acc: 0.33
+Test Loss: 0.324 | Test Acc: 0.71
+Best Acc: 0.72
+
+Epoch: 22
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.60it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 54.02it/s]
+Train Loss: 0.749 | Train Acc: 0.33
+Test Loss: 0.305 | Test Acc: 0.73
+Best Acc: 0.73
+
+Epoch: 23
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.55it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 49.61it/s]
+Train Loss: 0.746 | Train Acc: 0.33
+Test Loss: 0.294 | Test Acc: 0.74
+Best Acc: 0.74
+
+Epoch: 24
+Training: 100%|██████████| 391/391 [00:12<00:00, 32.40it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.99it/s]
+Train Loss: 0.743 | Train Acc: 0.33
+Test Loss: 0.297 | Test Acc: 0.73
+Best Acc: 0.74
+
+Epoch: 25
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.24it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.03it/s]
+Train Loss: 0.741 | Train Acc: 0.34
+Test Loss: 0.297 | Test Acc: 0.73
+Best Acc: 0.74
+
+Epoch: 26
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.11it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 45.15it/s]
+Train Loss: 0.740 | Train Acc: 0.34
+Test Loss: 0.288 | Test Acc: 0.74
+Best Acc: 0.74
+
+Epoch: 27
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.60it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.02it/s]
+Train Loss: 0.736 | Train Acc: 0.34
+Test Loss: 0.297 | Test Acc: 0.73
+Best Acc: 0.74
+
+Epoch: 28
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.10it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.82it/s]
+Train Loss: 0.735 | Train Acc: 0.34
+Test Loss: 0.282 | Test Acc: 0.75
+Best Acc: 0.75
+
+Epoch: 29
+Training: 100%|██████████| 391/391 [00:12<00:00, 32.58it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.74it/s]
+Train Loss: 0.733 | Train Acc: 0.34
+Test Loss: 0.283 | Test Acc: 0.75
+Best Acc: 0.75
+
+Epoch: 30
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.50it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.16it/s]
+Train Loss: 0.731 | Train Acc: 0.35
+Test Loss: 0.280 | Test Acc: 0.75
+Best Acc: 0.75
+
+Epoch: 31
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.90it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.16it/s]
+Train Loss: 0.729 | Train Acc: 0.35
+Test Loss: 0.280 | Test Acc: 0.75
+Best Acc: 0.75
+
+Epoch: 32
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.04it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 47.92it/s]
+Train Loss: 0.726 | Train Acc: 0.35
+Test Loss: 0.272 | Test Acc: 0.76
+Best Acc: 0.76
+
+Epoch: 33
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.69it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 51.25it/s]
+Train Loss: 0.725 | Train Acc: 0.35
+Test Loss: 0.277 | Test Acc: 0.75
+Best Acc: 0.76
+
+Epoch: 34
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.93it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.09it/s]
+Train Loss: 0.723 | Train Acc: 0.35
+Test Loss: 0.271 | Test Acc: 0.76
+Best Acc: 0.76
+
+Epoch: 35
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.41it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 49.16it/s]
+Train Loss: 0.722 | Train Acc: 0.35
+Test Loss: 0.271 | Test Acc: 0.75
+Best Acc: 0.76
+
+Epoch: 36
+Training: 100%|██████████| 391/391 [00:12<00:00, 32.23it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 53.29it/s]
+Train Loss: 0.721 | Train Acc: 0.36
+Test Loss: 0.272 | Test Acc: 0.76
+Best Acc: 0.76
+
+Epoch: 37
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.99it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.43it/s]
+Train Loss: 0.718 | Train Acc: 0.36
+Test Loss: 0.266 | Test Acc: 0.76
+Best Acc: 0.76
+
+Epoch: 38
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.74it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.59it/s]
+Train Loss: 0.717 | Train Acc: 0.36
+Test Loss: 0.266 | Test Acc: 0.76
+Best Acc: 0.76
+
+Epoch: 39
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.48it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 51.10it/s]
+Train Loss: 0.715 | Train Acc: 0.36
+Test Loss: 0.268 | Test Acc: 0.76
+Best Acc: 0.76
+
+Epoch: 40
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.23it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.83it/s]
+Train Loss: 0.714 | Train Acc: 0.36
+Test Loss: 0.266 | Test Acc: 0.76
+Best Acc: 0.76
+
+Epoch: 41
+Training: 100%|██████████| 391/391 [00:12<00:00, 32.49it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.42it/s]
+Train Loss: 0.713 | Train Acc: 0.36
+Test Loss: 0.265 | Test Acc: 0.76
+Best Acc: 0.76
+
+Epoch: 42
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.58it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 51.92it/s]
+Train Loss: 0.712 | Train Acc: 0.36
+Test Loss: 0.265 | Test Acc: 0.76
+Best Acc: 0.76
+
+Epoch: 43
+Training: 100%|██████████| 391/391 [00:12<00:00, 32.58it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 53.07it/s]
+Train Loss: 0.711 | Train Acc: 0.36
+Test Loss: 0.264 | Test Acc: 0.77
+Best Acc: 0.77
+
+Epoch: 44
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.70it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.63it/s]
+Train Loss: 0.712 | Train Acc: 0.37
+Test Loss: 0.263 | Test Acc: 0.77
+Best Acc: 0.77
+
+Epoch: 45
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.45it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 42.90it/s]
+Train Loss: 0.711 | Train Acc: 0.37
+Test Loss: 0.263 | Test Acc: 0.77
+Best Acc: 0.77
+
+Epoch: 46
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.59it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.57it/s]
+Train Loss: 0.711 | Train Acc: 0.37
+Test Loss: 0.264 | Test Acc: 0.76
+Best Acc: 0.77
+
+Epoch: 47
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.31it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.14it/s]
+Train Loss: 0.710 | Train Acc: 0.37
+Test Loss: 0.263 | Test Acc: 0.77
+Best Acc: 0.77
+
+Epoch: 48
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.59it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 50.32it/s]
+Train Loss: 0.709 | Train Acc: 0.37
+Test Loss: 0.263 | Test Acc: 0.76
+Best Acc: 0.77
+
+Epoch: 49
+Training: 100%|██████████| 391/391 [00:11<00:00, 33.72it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 52.26it/s]
+Train Loss: 0.709 | Train Acc: 0.37
+Test Loss: 0.263 | Test Acc: 0.76
+Best Acc: 0.77
+
+Epoch: 50
+Training: 100%|██████████| 391/391 [00:11<00:00, 32.79it/s]
+Testing: 100%|██████████| 79/79 [00:01<00:00, 51.93it/s]
+Train Loss: 0.708 | Train Acc: 0.37
+Test Loss: 0.263 | Test Acc: 0.77
+Best Acc: 0.77
