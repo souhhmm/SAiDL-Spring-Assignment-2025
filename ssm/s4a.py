@@ -209,5 +209,3 @@ class S4Model(nn.Module):
         x = self.decoder(x)
         return x
     
-    
-    
