@@ -8,7 +8,7 @@ The problem statements are attached [here](https://github.com/souhhmm/SAiDL-Spri
 
 2. #### State-Space Models: [ssm/](https://github.com/souhhmm/SAiDL-Spring-Assignment-2025/tree/main/ssm)
 
-Each task includes a separate README file.
+Each task includes a separate README file. (WIP)
 
 ## Reports
 1. #### Core ML: [core.pdf](https://github.com/souhhmm/SAiDL-Spring-Assignment-2025/blob/main/core/core.pdf)
