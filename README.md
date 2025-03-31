@@ -2,7 +2,7 @@
 This repository is my submission for [SAiDL](https://www.saidl.in/)'s 2025 Induction Assignment.
 The problem statements are attached [here](https://github.com/souhhmm/SAiDL-Spring-Assignment-2025/blob/main/SAiDL_Spring_Assignment_2025.pdf).
 
-## Tasks
+## Tasks [^note]
 
 1. #### Core ML: [core/](https://github.com/souhhmm/SAiDL-Spring-Assignment-2025/tree/main/core)
 
@@ -25,3 +25,6 @@ All runs were logged using [Weights & Biases](https://wandb.ai/).
 2. #### State-Space Models: [Link](https://api.wandb.ai/links/souhhmm-bits-pilani/l1qrt10j)
 
 Additionally, each task folder contains `logs/` and `configs/` directories with relevant files.
+
+
+[^note]: Given the current deadline extension until 6th April, 2025; I plan on doing another task, possibly RL/Diffusion.
