@@ -1,5 +1,6 @@
 # SAiDL Spring Assignment 2025
 This repository is my submission for [SAiDL](https://www.saidl.in/)'s 2025 Induction Assignment.
+The problem statements are attached [here](https://github.com/souhhmm/SAiDL-Spring-Assignment-2025/blob/main/SAiDL_Spring_Assignment_2025.pdf).
 
 ## Tasks
 
