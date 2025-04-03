@@ -22,7 +22,4 @@ All runs were logged using [Weights & Biases](https://wandb.ai/).
 
 2. #### State-Space Models: [Link](https://api.wandb.ai/links/souhhmm-bits-pilani/l1qrt10j)
 
-Additionally, each task folder contains `logs/` and `configs/` directories with relevant files.
-
-
 [^note]: Given the current deadline extension until 6th April, 2025; I plan on doing another task, possibly RL/Diffusion.
