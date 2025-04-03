@@ -10,7 +10,7 @@ from datetime import datetime
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-wandb.login(key="2f3ffd7baf545af396e18e48bfa20b33d2609dcc")
+wandb.login(key="wandb.ai/authorize")
 
 def split_train_val(train, val_split):
     train_len = int(len(train) * (1.0 - val_split))
