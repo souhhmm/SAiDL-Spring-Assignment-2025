@@ -18,8 +18,8 @@ Alternatively, find the reports on gdrive [here](https://drive.google.com/drive/
 ## Logs
 All runs were logged using [Weights & Biases](https://wandb.ai/). 
 
-1. #### Core ML: [Link](https://api.wandb.ai/links/souhhmm-bits-pilani/31ysfcz1)
+1. #### Core ML: [Report](https://api.wandb.ai/links/souhhmm-bits-pilani/31ysfcz1)
 
-2. #### State-Space Models: [Link](https://api.wandb.ai/links/souhhmm-bits-pilani/l1qrt10j)
+2. #### State-Space Models: [Report](https://api.wandb.ai/links/souhhmm-bits-pilani/l1qrt10j)
 
 [^note]: ~Given the current deadline extension until 6th April, 2025; I plan on doing another task, possibly RL/Diffusion.~ Well, this plan failed 😔.
