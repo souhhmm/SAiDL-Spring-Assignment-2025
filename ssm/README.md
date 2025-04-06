@@ -13,7 +13,7 @@ The [s4.ipynb](https://github.com/souhhmm/SAiDL-Spring-Assignment-2025/blob/main
 The models were trained on Kaggle (P100). To run the code, simply execute the notebook after choosing the desired discretization scheme.
 
 ## Report
-The [report](https://github.com/souhhmm/SAiDL-Spring-Assignment-2025/blob/main/ssm/ssm.pdf) has three main sections: Theoretical Understanding, Implementation Details and Results. The theoretical section represents my effort to grasp the underlying concept. The implementation details highlight the code aspect. The results contain the test accuracies of S4 models with different discretization schemes.
+The [report](https://github.com/souhhmm/SAiDL-Spring-Assignment-2025/blob/main/ssm/ssm.pdf) has three main sections: Theoretical Understanding, Implementation Details and Results. The theoretical section represents my effort to grasp the underlying concepts. The implementation details highlight the code aspect. The results contain the test accuracies of S4 models with different discretization schemes.
 
 The Wandb report can be found [here](https://api.wandb.ai/links/souhhmm-bits-pilani/l1qrt10j). To log using Wandb enter your [key](https://wandb.ai/authorize) in `wandb.login()`.
 
