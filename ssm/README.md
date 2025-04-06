@@ -17,7 +17,7 @@ The [report](https://github.com/souhhmm/SAiDL-Spring-Assignment-2025/blob/main/s
 
 The Wandb report can be found [here](https://api.wandb.ai/links/souhhmm-bits-pilani/l1qrt10j). To log using Wandb enter your [key](https://wandb.ai/authorize) in `wandb.login()`.
 
-### References
+## References
 1. The (one and only) [Annotated S4](https://srush.github.io/annotated-s4/) blog.
 2. Albert Gu's [talk](https://www.youtube.com/watch?v=luCBXCErkCs&t=1029s&ab_channel=StanfordMedAI) on Stanford MedAI's channel.
 3. After some digging (and stalking?) found this amazing [talk](https://www.youtube.com/watch?v=cAfrHICmDk0&ab_channel=SocietyforAIandDeepLearning) on SAiDL's channel 🫡.
