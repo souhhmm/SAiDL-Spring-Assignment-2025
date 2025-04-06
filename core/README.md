@@ -12,12 +12,3 @@ The Wandb report can be found [here](https://api.wandb.ai/links/souhhmm-bits-pil
 
 ## References
 The official [paper](https://arxiv.org/abs/2006.13554) and [code](https://github.com/HanxunH/Active-Passive-Losses/tree/master).
-
-```
-│── core/
-│   ├── configs/      # Configuration files for experiments  
-│   ├── logs/         # Logs generated during training
-│   ├── core.ipynb    # Implementation
-│   ├── core.pdf      # Report
-│   ├── README.md     # You are reading this!
-```
